@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Andrey}{Mramornov}{ \urlstyle{same}\href{http://jfhs.me}{jfhs.me}\\
+\href{mailto:mramornov.andrey@gmail.com}{mramornov.andrey@gmail.com} | +420 773 151 921
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -75,7 +75,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.35\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -83,35 +83,16 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\subsection{CZECH TECHNICAL UNIVERSITY}
+\descript{MScENG in Computer Vision and Image Processing}
+\location{Jun 2015 | Prague, Czech Republic}
 \sectionsep
 
-\subsection{Cornell University}
+\subsection{INTERNATIONAL INFORMATION TECHNOLOGIES UNIVERSITY}
 \descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
+\location{Jun 2013 | Almaty, Kazakhstan}
+
 \sectionsep
-
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
@@ -119,39 +100,56 @@ Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
 
 \section{Coursework}
 \subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
+3d vision \\
+Advanced algorithms \\
+Artificial Intelligence \\
+Computational Geometry \\
+Combinatorial Optimization \\
+Machine Learning and Data Analysis \\
+Theory of Algorithms \\
 \sectionsep
-
-\subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
-\subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+\location{Proficient in:}
+JavaScript~\textbullet{} Ember.js~\textbullet{} PHP~\textbullet{} Laravel~\textbullet{} Java~\textbullet{}
+Spring~\textbullet{} SQL (MySQL/Postgres)~\textbullet{} Shell Scripting~\textbullet{} HTML~\textbullet{} CSS \\
+\location{Descent experience:}
+Python~\textbullet{} C~\textbullet{} Web Security~\textbullet{} Delphi \\ 
+\location{Small experience:}
+Jenkins~\textbullet{} Docker~\textbullet{} Selenium~\textbullet{} MongoDB~\textbullet{} C++~\textbullet{} Assembly~\textbullet{} Nim
 \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LANGUAGES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Languages}
+Russian - native \\
+English - fluent \\
+French - basic \\
+Czech - basic
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   FREELANCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Freelance}
+\location{2005 - Present}
+During years of occasional freelance work I've developed:
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item a lot of small corporate websites/eshops, mainly using own framework based on Kohana.
+\item scrapping software/bots that were done in python/java, several times using Selenium.
+\item desktop applications using Delphi/C\#
+\end{tightemize}
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -161,83 +159,74 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.64\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
-\sectionsep
-
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{HotelMaching.com}
+\descript{| CTO }
+\location{Jul 2015 - Present | Prague, Czech Republic}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}
+\item Led the tech side of the project with 2 developers and a designer.
+\item Proposed and implemented core of the project - matching algorithm, and gradually improved it.
+\item Architectured and developed both front (Ember.js) and back (Java/Spring/Postgres) end.
+\item Implemented continuous integration using Jenkins.
+\item Backend based on microservice architecture with 9 services in total.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{chocolife.me}
+\descript{| Web Developer }
+\location{Jun 2013 – Sep 2013 | Almaty, Kazakhstan}
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
+\item Created front and back office for a coupon selling website using PHP/Kohana/Javascript.
+\item Interesting backoffice features included: logging of all changes, row level privileges for users, charts over any dataset using Google Charts.
+\item Created a new authentication system to provide single account over multiple websites (still partially in use). Compared to OAuth it supported login without redirects.
+\item Authorization of sites to access users data was based on federated  MySQL tables, which offered both security and SQL access to data.
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{kansha.kz}
+\descript{| Web Developer }
+\location{Oct 2012 – Jun 2013 | Remote}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\item Implemented several websites (mostly e-shops) using PHP/Kohana/Javascript.
+\item Worked on support and improvement of kansha.kz website.
+\end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\runsubsection{Salam World}
+\descript{| Frontend Developer }
+\location{Jun 2012 – Oct 2012 | Almaty, Kazakhstan}
+\begin{tightemize}
+\item Implemented long-living Facebook-like SPA using Javascript/PHP/Symfony.
+\item Created internationalization libraries for both twig and js templates.
+\item Created a custom tool for collecting all translation keys across twig templates.
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\runsubsection{darer.com}
+\descript{| Frontend Developer }
+\location{Jun 2011 – Oct 2011 | Remote}
+\begin{tightemize}
+\item Implemented social parts of website like comments/news/videos using PHP/Kohana/Javascript.
+\item Integrated PHPBB3 forum inside Kohana so it could use same authentication and be displayed inside main template.
+\item Optimized SQL statistics queries by denormalizing data and storing it to MongoDB. Speedup was from 30s to sub second timings for full page load.
+\end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards} 
-\begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-\end{tabular}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
+\runsubsection{kansha.kz}
+\descript{| Web Developer }
+\location{Jun 2010 – May 2011 | Remote}
+\begin{tightemize}
+\item Continued development and maintenance of existing price aggregation website built on PHP/Javascript.
+\item Automated manual matching of items from different price lists by name, this reduced hand work load from 4 full-time people to one half-time.
+\item Optimized website, mainly inefficient SQL queries, for some pages load time went from 60 to 3 seconds.
+\end{tightemize}
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
